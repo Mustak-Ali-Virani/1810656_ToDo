@@ -1,0 +1,30 @@
+body {
+            background-image: url("BMW.jpg");
+        }
+        .container {
+            background-color: white;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0px 0px 5px 2px #ccc;
+            margin-top: 50px;
+        }
+        .btn {
+			color: #21DCDE;
+            border-radius: 20px;
+        }
+        .btn-primary {
+            background-color: #007bff;
+        }
+        .btn-danger {
+             background-color: #ff0000; 
+    		 color: #fff; 
+        }
+        .btn-warning {
+            background-color: #ffa502;
+        }
+
+		.btn-favorite {
+    		background-color: gold; 
+    		color: #000; 
+		}
+        
